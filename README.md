@@ -1,5 +1,5 @@
 # Reverse Patch
-Finding the top left coordinate position of an image patch from its original full size image
+Finding the top left corner coordinate of an image patch from its original full size image
 
 ## Provided Information ##
 1. An image patch in 8-bit grayscale format
@@ -14,5 +14,6 @@ Finding the top left coordinate position of an image patch from its original ful
 <p align="center"><a href="https://www.codecogs.com/eqnedit.php?latex=\LARGE&space;y&space;=&space;floor(\frac{idx-x}{cols})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\LARGE&space;y&space;=&space;floor(\frac{idx-x}{cols})" title="\LARGE y = floor(\frac{idx-x}{cols})" /></a></p>
 
 ## Minimizing Errors ## 
+Using mean square error (MSE)
 
 ## Illustration ##
