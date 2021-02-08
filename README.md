@@ -1,4 +1,4 @@
-# Convolution Modeling
+# Convolution Network Modeling
 Understanding the mathematics behind convolution operator from 2D t 3D
 
 ## Provided Information ##
