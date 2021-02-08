@@ -1,9 +1,7 @@
-# Reverse Patch
-Finding the top left corner coordinate of an image patch from its original full size image
+# Convolution Modeling
+Understanding the mathematics behind convolution operator from 2D t 3D
 
 ## Provided Information ##
-1. An image patch in 8-bit grayscale format
-2. A full size image where the image patch is cropped
 
 ## Index Conversion ##
 1. Convert 2D index (x, y) to 1D global index (idx):
